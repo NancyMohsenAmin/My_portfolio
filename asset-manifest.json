@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/My_portfolio/static/css/main.46d40f8c.css",
+    "main.css": "/My_portfolio/static/css/main.89aadc6c.css",
     "main.js": "/My_portfolio/static/js/main.8955f200.js",
     "static/js/453.ace21015.chunk.js": "/My_portfolio/static/js/453.ace21015.chunk.js",
     "static/media/flyrin.png": "/My_portfolio/static/media/flyrin.bfa09fb939f51d01ad5f.png",
@@ -10,7 +10,6 @@
     "static/media/scencere.png": "/My_portfolio/static/media/scencere.bbf6361f384905538682.png",
     "static/media/security.png": "/My_portfolio/static/media/security.fd76eb85b87c52b3f005.png",
     "static/media/shoes.png": "/My_portfolio/static/media/shoes.130fa746448313b4ff67.png",
-    "static/media/bag-sky-green.jpg": "/My_portfolio/static/media/bag-sky-green.2d6253bc8c01c8e3c6cf.jpg",
     "static/media/bag-sky-blue.jpg": "/My_portfolio/static/media/bag-sky-blue.30e7ee72c3d5c1729a8f.jpg",
     "static/media/header-img.svg": "/My_portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/footer-bg.png": "/My_portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
@@ -22,12 +21,12 @@
     "index.html": "/My_portfolio/index.html",
     "static/media/nav-icon1.svg": "/My_portfolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/My_portfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.46d40f8c.css.map": "/My_portfolio/static/css/main.46d40f8c.css.map",
+    "main.89aadc6c.css.map": "/My_portfolio/static/css/main.89aadc6c.css.map",
     "main.8955f200.js.map": "/My_portfolio/static/js/main.8955f200.js.map",
     "453.ace21015.chunk.js.map": "/My_portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46d40f8c.css",
+    "static/css/main.89aadc6c.css",
     "static/js/main.8955f200.js"
   ]
 }
